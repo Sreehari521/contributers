@@ -11,7 +11,10 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/74092334?v=4",
       "profile": "http://anantjit.whjr.site",
       "contributions": [
-        "bug"
+        "bug",
+        "code",
+        "translation",
+        "doc"
       ]
     }
   ],
