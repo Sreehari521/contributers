@@ -17,6 +17,16 @@
         "doc",
         "ideas"
       ]
+    },
+    {
+      "login": "somePythonProgrammer",
+      "name": "somePythonProgrammer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74598401?v=4",
+      "profile": "https://github.com/somePythonProgrammer",
+      "contributions": [
+        "bug",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
